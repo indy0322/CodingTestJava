@@ -1,1 +1,3 @@
-# CodingTestJava
+# CodingTest with Java 
+-자바를 사용한 코딩테스트 연습한 자료 모음
+-자료구조와 함께 배우는 알고리즘 입문 자바편 도서로 공부
